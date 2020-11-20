@@ -288,7 +288,7 @@ ifndef::backend-pdf[.pass:[<i class="fa fa-github"></i>] commit/push]
 ifdef::backend-pdf[.icon:github[] commit/push]
 [source,shell]
 ....
-fix #1.0 Completed class diagram
+fix #All: Completed all duties
 ....
 
 
