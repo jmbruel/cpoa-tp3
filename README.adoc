@@ -282,7 +282,7 @@ JMI a commandé une Pizza pâte style Strasbourg et fromage
 ............
 
 
-WARNING: Attention, ce TP est évalué dans le cadre du contrôle continu. L'autograding de classroom lancera les tests via gradle et maven, ainsi que test0 et le test du modèle. Ceci constituera 80% de la note. Les 20% suivants seront évalué par votre encadrant de TP sur la base de vos tests (qualité et nombres).
+WARNING: Attention, ce TP est évalué dans le cadre du contrôle continu. L'autograding de classroom lancera les tests via `gradle test` et `maven test`, ainsi que `test0` et le test du modèle. Ceci constituera 80% de la note. Les 20% suivants seront évalués par votre encadrant de TP sur la base de vos tests (qualité et nombres).
 
 ifndef::backend-pdf[.pass:[<i class="fa fa-github"></i>] commit/push]
 ifdef::backend-pdf[.icon:github[] commit/push]
