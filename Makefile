@@ -23,6 +23,9 @@ check:
 	ruby tests/testfix0.rb README.adoc 
 	ruby tests/testfix11.rb 
 
+cleanrepo:
+	 git filter-branch --tree-filter 'rm -rf folder' -- --all 
+
 clean:
 	rm -rf target
 	rm -rf build
