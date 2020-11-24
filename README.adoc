@@ -264,7 +264,7 @@ Étalage de la pâte...
 Ajout de la sauce...
 Ajout des garnitures: 
  Parmigiano reggiano râpé
-Cuisson 25 minutes à 180°
+Cuisson 25 minutes à 180 degrés
 Découpage en parts triangulaires
 Emballage dans une boîte officielle
 JMB a commandé une Pizza sauce style brest et fromage
@@ -274,12 +274,14 @@ Étalage de la pâte...
 Ajout de la sauce...
 Ajout des garnitures: 
  Mozzarella en lamelles
-Cuisson 25 minutes à 180°
+Cuisson 25 minutes à 180 degrés
 Découpage en parts carrées
 Emballage dans une boîte officielle
 JMI a commandé une Pizza pâte style Strasbourg et fromage
 ............
 
+.Architecture type attendue (ici dans une version US)
+image::TP3.svg[]
 
 WARNING: Attention, ce TP est évalué dans le cadre du contrôle continu. L'autograding de classroom lancera les tests via `gradle test` et `maven test`, ainsi que `test0` et le test du modèle. Ceci constituera 80% de la note. Les 20% suivants seront évalués par votre encadrant de TP sur la base de vos tests (qualité et nombres).
 
