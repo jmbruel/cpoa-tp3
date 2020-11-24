@@ -216,7 +216,7 @@ endif::[]
 * Implémentez entièrement l'application de Pizzeria vue en TD3 de manière à ce :
 ** qu'elle mette en œuvre le patron Fabrique Abstraite
 ** qu'elle mette en œuvre le patron Singleton (pour les fabriques)
-** que le programme de main livré dans votre dépôt produise le résultat ci-dessous.
+** que le programme de main (attention, ce n'est pas un test JUnit) livré dans votre dépôt produise le résultat ci-dessous.
 +
 TIP: Commencez par le programme fourni et servez-vous des _QuickFix_ pour "générer" un maximum de code.
 +
